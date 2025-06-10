@@ -1,8 +1,4 @@
-Run the init script first
 
-init.bat for Windows
-
-init.sh for Linux
 
 This will pre-initialize the project files with your own mod name and namespace.
 
